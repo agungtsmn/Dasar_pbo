@@ -13,3 +13,4 @@ class Character {
     _healthPoint = value;
   }
 }
+
