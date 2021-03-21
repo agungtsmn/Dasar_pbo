@@ -17,3 +17,4 @@ class MonsterUburUbur extends Monster {
     return "Berenang-renang";
   }
 }
+
