@@ -6,7 +6,6 @@
 // Inheritance
 
 import 'dart:io';
-
 import 'package:dasar_pbo/hero.dart';
 import 'package:dasar_pbo/monster.dart';
 import 'package:dasar_pbo/monster_kecoa.dart';
