@@ -8,7 +8,7 @@
 // import 'dart:io';
 // import 'package:dasar_pbo/persegi_panjang.dart';
 
-// main(List<String> arguments) {
+// main(List<String> args) {
 //   PersegiPanjang kotak1, kotak2;
 //   double luasKotak1;
 
@@ -32,7 +32,7 @@
 // import 'dart:io';
 // import 'package:dasar_pbo/persegi_panjang.dart';
 
-// main(List<String> arguments) {
+// main(List<String> args) {
 //   PersegiPanjang kotak1, kotak2;
 //   double luasKotak1;
 
