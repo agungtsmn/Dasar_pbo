@@ -12,7 +12,7 @@ import 'package:dasar_pbo/monster.dart';
 import 'package:dasar_pbo/monster_kecoa.dart';
 import 'package:dasar_pbo/monster_ubur_ubur.dart';
 
-main(List<String> arguments) async {
+main(List<String> args) async {
   Hero h = Hero();
   Monster m = Monster();
   MonsterUburUbur monster = MonsterUburUbur();
