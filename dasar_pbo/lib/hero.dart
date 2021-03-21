@@ -8,3 +8,4 @@ import 'package:dasar_pbo/character.dart';
 class Hero extends Character {
   String killAMonster() => "Take this!!";
 }
+
