@@ -1,1 +1,0 @@
-Amanda Agung Permata
